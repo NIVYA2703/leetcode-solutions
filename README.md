@@ -1,76 +1,43 @@
-# 🚀 LeetCode Daily Streak
+# 🧩 LeetCode Solutions
 
-Welcome to my **LeetCode Daily Streak** repository!
+This repository contains my solutions to LeetCode problems solved in **Python and Java** as part of my regular problem-solving practice.
 
-This repository contains my daily LeetCode solutions as part of my commitment to improving my problem-solving, algorithmic thinking, and programming skills.
+## 🎯 Purpose
 
-## 🎯 Goal
+I use this repository to strengthen my understanding of:
 
-- 📅 Solve at least one LeetCode problem every day.
-- 💻 Strengthen Data Structures & Algorithms (DSA).
-- 🧠 Improve logical thinking and coding efficiency.
-- 📈 Stay consistent and prepare for technical interviews.
+- Data Structures
+- Algorithms
+- Problem Solving
+- Time & Space Complexity
+- Programming in Java and Python
 
-## 📂 Repository Structure
-
-```
-LeetCode-Daily-Streak/
-│
-├── Day-01/
-├── Day-02/
-├── Day-03/
-├── ...
-└── README.md
-```
-
-Each day's folder contains:
-- ✅ Problem solution
-- 📝 Clean and readable code
-- 💡 Approach (where applicable)
-
-## 🛠️ Language
+## 💻 Languages
 
 - Python 🐍
+- Java ☕
 
-*(More languages may be added as I continue learning.)*
-
-## 📌 Topics Covered
+## 📚 Practice Areas
 
 - Arrays
 - Strings
-- Hash Maps
-- Two Pointers
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Binary Search
+- Mathematics
+- Searching
+- Sorting
 - Recursion
-- Dynamic Programming
-- Graphs
-- Greedy Algorithms
-- Backtracking
-- And many more...
+- Data Structures
+- Algorithms
+- Problem Solving
 
-## 🌱 Why This Repository?
+## 📂 Repository Structure
 
-Consistency is the key to mastering problem-solving.
-
-This repository serves as:
-- My coding journal
-- A record of daily practice
-- A way to track my progress
-- A resource for future revision
-
-## 📊 Progress
-
-- 🔥 Daily Streak: Ongoing
-- 🎯 Goal: Solve 365+ problems
-- 📅 Started: July 2026
-
-## 🤝 Connect with Me
-
-If you're also solving LeetCode daily, feel free to connect and learn together!
-
-⭐ If you find this repository helpful, consider giving it a star!
-
-Happy Coding! 🚀
+```text
+leetcode-solutions/
+│
+├── python/
+│   ├── ...
+│
+├── java/
+│   ├── ...
+│
+└── README.md
